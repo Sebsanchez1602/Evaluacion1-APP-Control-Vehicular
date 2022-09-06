@@ -1,0 +1,7 @@
+{
+  "name": "Controlv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
